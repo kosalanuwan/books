@@ -1,0 +1,23 @@
+
+{
+  "short_name": "books",
+  "name": "books",
+  "description": "&lt;a href=\&quot;https://kosalanuwan.github.io\&quot;&gt;&lt;span&gt;@&lt;/span&gt;kosalanuwan&lt;/a&gt;'s plot summaries and story outlines of fiction writing. This is how it all should have happened.",
+  "icons": [
+    {
+      "src": "/books/splash-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/books/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/books/",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/books/",
+  "theme_color": "#ffffff"
+}
